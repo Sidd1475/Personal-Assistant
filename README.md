@@ -42,7 +42,11 @@ Document the required credentials, webhook URL, permissions and any configuratio
 - Search for information about a particular topic.
 
 ## Screenshots
-Add screenshots of the workflow architecture and successful executions.
+<img width="807" height="577" alt="image" src="https://github.com/user-attachments/assets/0cb96a22-9ed6-4f0d-9f31-39c5e19e3ecb" />
+<img width="1917" height="822" alt="image" src="https://github.com/user-attachments/assets/0a3dc381-cafd-4b6e-8fc3-09498692b601" />
+<img width="1868" height="835" alt="image" src="https://github.com/user-attachments/assets/315bf6cc-01d6-4f1e-a4d0-f64f92873616" />
+
+
 
 ## Limitations
 - Requires valid API credentials.
